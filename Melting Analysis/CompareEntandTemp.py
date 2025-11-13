@@ -6,20 +6,18 @@ import gc
 
 #USER INPUTS_________________________________________________________________
 
-gamma=0.03
-angle=60
-round_number=4
-time=370
-secondstime=time*100
-ncores=100
-center=98.0
-path=r"c:\Users\nakaj\OneDrive\Desktop\2025Work\MeltScalingCollisions\FinalCollisions\0.03\60Deg\\"
-outputpath=r"c:\Users\nakaj\OneDrive\Desktop\2025Work\MeltScalingCollisions\FinalCollisions\0.03\60Deg\\"
-axesscale=9
+gamma =
+angle =
+time =
+ncores =
+path =
+outputpath =
 r0=1e6
+axesscale=9
 
 #USER INPUTS_________________________________________________________________
 
+secondstime=time*100
 meltedparticles=[]
 xmlist=[]
 ymlist=[]
@@ -215,6 +213,7 @@ plt.close(fig)
 print(f"The total number of mantle particles is: {mantcounter}")
 print(f"The total number of melted mantle particles (Rubie Model) is: {rubiecounter} ")
 print(f"The total number of melted mantle particles (Entropy Model) is: {entcounter}\n")
+
 
 
 
