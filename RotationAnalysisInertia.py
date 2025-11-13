@@ -2,11 +2,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 from collections import namedtuple
 
-#USER INPUTS ----------------------------------------------------------------
+#USER INPUTS_________________________________________________________________
 
-path=r"c:\Users\nakaj\OneDrive\Desktop\2025Work\MeltScalingCollisions\FinalCollisions\0.03\90Deg\\"
-ncores=100
-time=370
+path=        #Path to data files
+ncores=      #Number of cores used in the simulation
+time=        #Time you are analyzing the rotation period at
+
+#____________________________________________________________________________
 
 xcore=[]
 ycore=[]
@@ -89,7 +91,4 @@ for i in range(ncores):
 omegaz=np.linalg.norm(Lnet)/I
 periodz=(2*np.pi)/omegaz
 print(f"\nThe rotation period is: {periodz/3600} hours\n")
-
-
-            
 
