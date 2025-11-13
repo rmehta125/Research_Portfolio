@@ -12,7 +12,7 @@ outputpath =                   #Output file path for the plots and mixing docume
 ncores =                       #Number of cores used in the simulation
 outputnumber1 =                #Initial timestep for analysis
 outputnumber2 =                #Final timestep for analysis
-axesdim = 15                   #Length of your axes in units of your scale           
+axesdim = 15                   #Length of your axes in units of your scale (the default is 15)          
 
 #____________________________________________________________________________
 
@@ -149,6 +149,7 @@ for j in range(outputnumber1,outputnumber2+1):
     f.write("{} {}\n".format(j,len(specialx)/(len(specialx)+len(ximpcore))))
     plt.close()
 f.close()
+
 
 
 
