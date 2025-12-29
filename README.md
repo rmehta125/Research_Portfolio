@@ -1,1 +1,5 @@
+# SPH Simulation Analysis
+
+##Overview
+
 This repository allows users to analyze planetary collision simulations generated using the smoothed particle hydrodynamics (SPH) code of the Nakajima Lab at the University of Rochester (https://github.com/NatsukiHosono/FDPS_SPH).
