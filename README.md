@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/5d47f62f-f200-4169-93ec-5466018443ba
   <!-- Row 1: THREE images -->
   <tr>
     <td>
-      <img width="900" alt="Pressure3D" src="https://github.com/user-attachments/assets/7d6e4cd5-6503-43ed-8ed7-cd7f47daa184" />
+      <img width="900" alt="DensityCS" src="https://github.com/user-attachments/assets/1754bb47-ac0a-42dd-8915-564820c2e36e" />
     </td>
     <td>
       <img width="900" alt="Mixing3D_00740" src="https://github.com/user-attachments/assets/54f56ac0-759f-4af5-86d9-7419acc572a8" />
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/5d47f62f-f200-4169-93ec-5466018443ba
       <img width="900" alt="MixingProj_00740" src="https://github.com/user-attachments/assets/dfa5678c-a1ea-441f-8931-a66714a667ff" />
     </td>
     <td>
-      <img width="900" alt="DensityCS" src="https://github.com/user-attachments/assets/1754bb47-ac0a-42dd-8915-564820c2e36e" />
+      <img width="900" alt="Pressure3D" src="https://github.com/user-attachments/assets/7d6e4cd5-6503-43ed-8ed7-cd7f47daa184" />
     </td>
   </tr>
   
