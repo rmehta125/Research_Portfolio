@@ -4,14 +4,14 @@ from collections import namedtuple
 
 #USER INPUTS_________________________________________________________________
 
-path=r"C:\Users\nakaj\OneDrive\Desktop\2025Work\MeltScalingCollisions\FinalCollisions\0.01\90Deg\\"
-outputpath=path
-outputnumber=740
-gamma=0.3
-angle=90
-axesdim=24
-thickness=0.4
-cutoff=True
+path = 
+outputpath = 
+outputnumber = 
+gamma = 
+angle = 
+axesdim = 20
+thickness = 0.4
+cutoff =
 
 #____________________________________________________________________________
 
@@ -266,3 +266,4 @@ def main(cutoff):
 
 
 main(cutoff)
+
