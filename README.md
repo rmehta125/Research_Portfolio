@@ -10,6 +10,8 @@ For a full instruction manual of using the code, please see the attached link: h
 
 ## Gallery
 
+Shown below are several example plots and animations that have been generated using this repository.
+
 <div align="center">
 
 https://github.com/user-attachments/assets/5d47f62f-f200-4169-93ec-5466018443ba
