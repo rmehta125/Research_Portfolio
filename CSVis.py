@@ -4,29 +4,29 @@ import numpy as np
 
 #USER INPUTS_________________________________________________________________
 
-path = r"C:\Users\nakaj\OneDrive\Desktop\2025Work\CanonicalImpact\\"
-outputpath = r"C:\Users\nakaj\OneDrive\Desktop\2025Work\CanonicalImpact\Visuals\\"
-ncores = 300
-outputnumber1 = 400
-outputnumber2 = 400
+path = 
+outputpath = 
+ncores = 
+outputnumber1 = 
+outputnumber2 = 
 
 centering = True
 axesscale = 1e6
-axesdim = 50
+axesdim = 20
 axes = True
-background = 'White'
-thickness = 2.5
-particlesize = 2
+background = 'Black'
+thickness = 0.4
+particlesize = 1.7
 
-parameter = 'Temperature'
-minimum = 0
-maximum = 7000
-colormap = 'magma'
+parameter = 
+minimum = 
+maximum = 
+colormap = 
 
-tarmantlecolor = 'green'
-tarcorecolor = 'orange'
-impmantlecolor = 'red'
-impcorecolor = 'blue'
+tarmantlecolor = 
+tarcorecolor = 
+impmantlecolor = 
+impcorecolor = 
 
 #____________________________________________________________________________
 
@@ -280,6 +280,7 @@ def main():
         plot(lists,normfactor,units,timevalue)
 
     print()
+
 
 
 
