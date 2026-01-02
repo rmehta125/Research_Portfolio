@@ -34,12 +34,21 @@ https://github.com/user-attachments/assets/5d47f62f-f200-4169-93ec-5466018443ba
   </tr>
   <tr>
     <td>
-      <img width="2112" height="1808" alt="TemperatureCS" src="https://github.com/user-attachments/assets/69a09fc7-4eb2-4f3c-b5b6-a3aea2c1e638" />
+      <img width="900" alt="TemperatureCS" src="https://github.com/user-attachments/assets/69a09fc7-4eb2-4f3c-b5b6-a3aea2c1e638" />
     </td>
     <td>
-      <img width="2400" height="1800" alt="Melting_00740" src="https://github.com/user-attachments/assets/d28e76a5-eec8-4b52-b726-7659d4a28107" />
+      <img width="900" alt="Melting_00740" src="https://github.com/user-attachments/assets/d28e76a5-eec8-4b52-b726-7659d4a28107" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img width="900" alt="Melting_00537" src="https://github.com/user-attachments/assets/b1ad3e38-5f73-49e9-8ef5-4261f9741f85" />
+    </td>
+    <td>
+      <img width="900" alt="DensityCS" src="https://github.com/user-attachments/assets/1754bb47-ac0a-42dd-8915-564820c2e36e" />
+    </td>
+  </tr>
+  
   
 </table>
 
