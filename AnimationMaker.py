@@ -2,12 +2,12 @@ import imageio.v2 as imageio
 
 #USER INPUTS_________________________________________________________________
 
-path = r"C:\Users\nakaj\OneDrive\Desktop\2025Work\MassiveImpactTest\MiscibleVisuals\\"    
-outputpath=path
-prefix='Miscible'
-outputnumber1=0
-outputnumber2=740
-fps=25
+path =    
+outputpath = 
+prefix =
+outputnumber1 = 
+outputnumber2 =
+fps = 25
 
 #____________________________________________________________________________
 
@@ -32,5 +32,6 @@ def main():    # Main function generates the animation
 
 
 main()
+
 
 
