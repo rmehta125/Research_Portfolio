@@ -18,16 +18,13 @@ https://github.com/user-attachments/assets/5d47f62f-f200-4169-93ec-5466018443ba
   <!-- Row 1: THREE images -->
   <tr>
     <td>
-      <img width="600" alt="DensityCS"
-           src="https://github.com/user-attachments/assets/ccfc51d3-d789-40cd-b457-5aedd2f0b4cc" />
+      <img width="550" alt="Melting_00740" src="https://github.com/user-attachments/assets/414d60d3-08c6-4c64-aa53-a1d52962fae0" />
     </td>
     <td>
-      <img width="600" alt="Energy3D" 
-           src="https://github.com/user-attachments/assets/0f18d4ec-2293-4aee-883c-f4c6b5bf1e3e" /> 
+      <img width="550" alt="Mixing3D_00740" src="https://github.com/user-attachments/assets/808dec53-8c6c-4029-aabd-095d328db2cf" />
     </td>
     <td>
-      <img width="600" alt="Pressure3D" 
-           src="https://github.com/user-attachments/assets/71b772c6-32ea-4dd0-8139-64466dc63a64" />
+      <img width="550" alt="MixingProj_00740" src="https://github.com/user-attachments/assets/dfa5678c-a1ea-441f-8931-a66714a667ff" />
     </td>
   </tr>
 
