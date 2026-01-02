@@ -10,8 +10,11 @@ For a full instruction manual of using the code, please see the attached link: h
 
 ## Gallery
 
+<div align="center">
 
 https://github.com/user-attachments/assets/5d47f62f-f200-4169-93ec-5466018443ba
 
+</div>
 
-[INSERT PRETTY PICTURE AND VIDEOS]
+
+
