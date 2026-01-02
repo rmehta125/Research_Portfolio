@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/5d47f62f-f200-4169-93ec-5466018443ba
       <img width="900" alt="Melting_00740" src="https://github.com/user-attachments/assets/414d60d3-08c6-4c64-aa53-a1d52962fae0" />
     </td>
     <td>
-      <img width="900" alt="Mixing3D_00740" src="https://github.com/user-attachments/assets/808dec53-8c6c-4029-aabd-095d328db2cf" />
+      <img width="900" alt="Mixing3D_00740" src="https://github.com/user-attachments/assets/54f56ac0-759f-4af5-86d9-7419acc572a8" />
     </td>
   </tr>
   <tr>
