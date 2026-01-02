@@ -27,8 +27,8 @@ https://github.com/user-attachments/assets/5d47f62f-f200-4169-93ec-5466018443ba
   </tr>
     <tr>
     <td>
-      <img width="900" alt="3D_00020" 
-        src="https://github.com/user-attachments/assets/dfc182a6-f72e-46af-96a6-afb96627c008" />
+      <img width="900" alt="Pressure3D" 
+        src="https://github.com/user-attachments/assets/71b772c6-32ea-4dd0-8139-64466dc63a64" />
     </td>
     <td>
       <img width="900" alt="TemperatureCS" 
