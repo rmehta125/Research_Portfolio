@@ -14,7 +14,7 @@ Shown below are several example plots and animations that have been generated us
 
 <div align="center">
 
-https://github.com/user-attachments/assets/677d4dc0-790d-4ea4-9379-2b7e1bffbcd4
+https://github.com/user-attachments/assets/592ab86a-276a-4742-bdfb-cd6e3e14d4f5
 
 https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
 
