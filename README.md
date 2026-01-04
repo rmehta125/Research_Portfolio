@@ -4,11 +4,11 @@
 
 **For an in-depth summary of what is included in this repository, please see the ResearchPortfolio.pdf file.**
 
-This repository contains all work I, Roshan Mehta, have done for the Nakajima Lab under the supervision of Prof. Miki Nakajima.  My research involves using smoothed-particle-hydrodynamics (SPH) simulations to analyze giant impacts.  SPH is a Lagrangian technique that treats particle systems as fluids.  I use this method to generate high resolution simulations of planetary collisions between a target body and an impactor body.  I then analyze the results for melting, material mixing, and various properties such as temperature and pressure distributions.  Through this work, I have created several programs, large and small projects, and documentations of my findings that are listed here.  In addition, the MeltingMixing and VisualizationCode folders contain instruction manuals I have written for how to use the code included there, as these are programs I wrote for others to use as well.  
+This repository contains all work I, Roshan Mehta, have done for the Nakajima Lab under the supervision of Prof. Miki Nakajima.  My research involves using smoothed-particle-hydrodynamics (SPH) simulations to analyze giant impacts.  SPH is a Lagrangian technique that treats particle systems as fluids.  I use this method to generate high resolution simulations of planetary collisions, which I then analyze the results for melting, material mixing, various properties such as temperature and pressure distributions, and more.  My programs and findings are stored in this repository.  In addition, I have included instruction manuals in the MeltingMixing and VisualizationCode folders explaining how to use the code included there, as these are programs I wrote for others to use as well.  
 
 ## Gallery
 
-Shown below are a random assortment of plots and animations that I have generated so far using the code (or variations of it) provided in this repository.  Additional figures can be found in the project folders.  After all, I am still an undergraduate who gets a rush of excitement from a pretty plots, and so, I thought they worth including.
+Shown below are a random assortment of plots and animations that I have generated so far using the code (or variations of it) provided in this repository.  Additional figures can be found in the individual project folders.  After all, I am still an undergraduate who gets a rush of excitement from a pretty plots, and so, I thought they worth including.
 
 <div align="center">
 
