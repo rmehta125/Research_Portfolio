@@ -8,7 +8,7 @@ This repository contains all work I, Roshan Mehta, have done for the Nakajima La
 
 ## Gallery
 
-Shown below are several example plots and animations that have been generated using this repository.
+Shown below are a random assortment of plots and animations that I have generated so far using the code (or variations of it) provided in this repository.  Additional figures can be found in the project folders.  After all, I am still an undergraduate who gets a rush of excitement from a pretty plots, and so, I thought they worth including.
 
 <div align="center">
 
