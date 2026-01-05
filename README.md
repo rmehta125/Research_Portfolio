@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
       <img width="900" alt="CS_00740" src="https://github.com/user-attachments/assets/4dbebaf6-7e50-45e5-8a3e-54e194ddd9f9" />
     </td>
     <td>
-      <img width="900" alt="Melting_01200" src="https://github.com/user-attachments/assets/dcda1b60-8d8b-4b9a-b722-675c18645961" />
+      <img width="900" alt="Melting_01000" src="https://github.com/user-attachments/assets/59eeb6e5-99d8-409c-bfc0-344305be5286" />
     </td>
   </tr>
   <tr>
