@@ -10,20 +10,6 @@ This repository contains all work I, Roshan Mehta, have done for the Nakajima La
 
 Shown below are a random assortment of plots and animations that I have generated so far using the code (or variations of it) provided in this repository.  Additional figures can be found in the individual project folders.  
 
-<style>
-/* Make table stop autosizing to content */
-table { table-layout: fixed; width: 100%; }
-
-/* Force equal column widths */
-colgroup col { width: 50%; }
-
-/* Make images scale to their cell and remove baseline gaps */
-td img { display: block; max-width: 100%; height: auto; }
-
-/* Prevent overflowing content from expanding a cell */
-td { overflow: hidden; padding: 4px; box-sizing: border-box; }
-</style>
-
 <div align="center">
 
 https://github.com/user-attachments/assets/592ab86a-276a-4742-bdfb-cd6e3e14d4f5
@@ -36,7 +22,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
       <img width="900" alt="DensityCS" src="https://github.com/user-attachments/assets/1754bb47-ac0a-42dd-8915-564820c2e36e" />
     </td>
     <td>
-        <img width="900" alt="Mixing3D_00370" src="https://github.com/user-attachments/assets/d53673c5-886d-4a69-8033-caf3f3501eb8"/>
+        <img width="300" alt="Mixing3D_00370" src="https://github.com/user-attachments/assets/d53673c5-886d-4a69-8033-caf3f3501eb8"/>
     </td>
   </tr>
   <tr>
