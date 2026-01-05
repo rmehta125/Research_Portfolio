@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
       <img width="900" alt="DensityCS" src="https://github.com/user-attachments/assets/1754bb47-ac0a-42dd-8915-564820c2e36e" />
     </td>
     <td>
-        <img width="900" alt="Mixing3D_00370" src="https://github.com/user-attachments/assets/1ee2e4fc-a2e0-451c-963b-4de814d7c87f" />
+        <img width="900" alt="Mixing3D_00370" src="https://github.com/user-attachments/assets/3a95e0b1-733d-46b8-81ad-9bbc68ab2f37" />
     </td>
   </tr>
   <tr>
