@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
       <img width="900" alt="DensityCS" src="https://github.com/user-attachments/assets/1754bb47-ac0a-42dd-8915-564820c2e36e" />
     </td>
     <td>
-        <img width="900" alt="image" src="https://github.com/user-attachments/assets/ea0d889a-9f54-45a3-82c3-031f03fa4ce0" />
+        <img width="900" alt="image" src="https://github.com/user-attachments/assets/8c596743-65ea-4dd2-84c4-cfc536c2aedb" />
     </td>
   </tr>
   <tr>
