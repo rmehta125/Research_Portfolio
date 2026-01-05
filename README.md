@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
       <img width="900" alt="TemperatureCS" src="https://github.com/user-attachments/assets/69a09fc7-4eb2-4f3c-b5b6-a3aea2c1e638" />
     </td>
     <td>
-      <img width="900" alt="Melting_00740" src="https://github.com/user-attachments/assets/d28e76a5-eec8-4b52-b726-7659d4a28107" />
+      <img width="900" alt="Melting_00019_star" src="https://github.com/user-attachments/assets/0dc93e2a-a331-49df-a87b-efe4b2c1c643" />
     </td>
   </tr>
   <tr>
