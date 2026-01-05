@@ -19,10 +19,10 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
 <table align="center">
   <tr>
     <td>
-      <img width="100" alt="DensityCS" src="https://github.com/user-attachments/assets/ad75c13f-f35b-443f-ac95-b377473a01a3" />
+      <img width="500" alt="DensityCS" src="https://github.com/user-attachments/assets/ad75c13f-f35b-443f-ac95-b377473a01a3" />
     </td>
     <td>
-        <img width="100" alt="Screenshot 2026-01-05 005840" src="https://github.com/user-attachments/assets/ad75c13f-f35b-443f-ac95-b377473a01a3" />
+        <img width="500" alt="Screenshot 2026-01-05 005840" src="https://github.com/user-attachments/assets/ad75c13f-f35b-443f-ac95-b377473a01a3" />
     </td>
   </tr>
   <tr>
