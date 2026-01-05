@@ -10,6 +10,20 @@ This repository contains all work I, Roshan Mehta, have done for the Nakajima La
 
 Shown below are a random assortment of plots and animations that I have generated so far using the code (or variations of it) provided in this repository.  Additional figures can be found in the individual project folders.  
 
+<style>
+/* Make table stop autosizing to content */
+table { table-layout: fixed; width: 100%; }
+
+/* Force equal column widths */
+colgroup col { width: 50%; }
+
+/* Make images scale to their cell and remove baseline gaps */
+td img { display: block; max-width: 100%; height: auto; }
+
+/* Prevent overflowing content from expanding a cell */
+td { overflow: hidden; padding: 4px; box-sizing: border-box; }
+</style>
+
 <div align="center">
 
 https://github.com/user-attachments/assets/592ab86a-276a-4742-bdfb-cd6e3e14d4f5
