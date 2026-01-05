@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
     </td>
     <td>
       <div align="center">
-        <img width="900" alt="Mixing3D_00370" src="https://github.com/user-attachments/assets/1ee2e4fc-a2e0-451c-963b-4de814d7c87f" />
+        <img width="300" alt="Mixing3D_00370" src="https://github.com/user-attachments/assets/1ee2e4fc-a2e0-451c-963b-4de814d7c87f" />
       </div>
     </td>
   </tr>
