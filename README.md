@@ -16,9 +16,9 @@ https://github.com/user-attachments/assets/592ab86a-276a-4742-bdfb-cd6e3e14d4f5
 
 https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
 
-<table align="center">
+<img width="2112" alt="DensityCS" src="https://github.com/user-attachments/assets/0caa7abe-2121-46a9-9297-82b91c3913b9" />
 
-  <img width="300" alt="DensityCS" src="https://github.com/user-attachments/assets/0caa7abe-2121-46a9-9297-82b91c3913b9" />
+<table align="center">
   
   <tr>
     <td>
