@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
       <img width="470" alt="DensityCS" src="https://github.com/user-attachments/assets/0caa7abe-2121-46a9-9297-82b91c3913b9" />
     </td>
     <td>
-        <img width="470" alt="Screenshot 2026-01-05 005840" src= />
+        <img width="470" alt="Screenshot 2026-01-05 005840" src="https://github.com/user-attachments/assets/81158838-1456-49c0-9857-16e656b970eb" />
     </td>
   </tr>
   <tr>
