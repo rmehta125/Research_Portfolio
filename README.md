@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
       </div>
     </td>
     <td>
-        <div>
+        <div align="center>
         <img width="300" alt="Screenshot 2026-01-05 005840" src="https://github.com/user-attachments/assets/9ce97ec6-1ba1-4ef5-b431-8b4a8550d2b0" />
         </div>
     </td>
