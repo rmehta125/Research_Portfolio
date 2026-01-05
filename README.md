@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
   </tr>
   <tr>
     <td>
-      <img width="900" alt="MixingProj_00740" src="https://github.com/user-attachments/assets/08b5a517-df7c-4806-986d-4dc6b6fa8746" />
+      <img width="900" alt="image" src="https://github.com/user-attachments/assets/83afe5e6-93b5-43c5-9e0f-3664b3bfa359" />
     </td>
     <td>
       <img width="900" alt="Pressure3D" src="https://github.com/user-attachments/assets/f33e86ee-f5c6-4e2f-9960-73bf628d4340" />
