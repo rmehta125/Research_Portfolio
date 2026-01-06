@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/649fc9d5-5022-4279-87bb-7e6afdd9cf90
   </tr>
   <tr>
     <td>
-      <img width="900" height="1493" alt="image" src="https://github.com/user-attachments/assets/02cac085-4302-4b12-b280-b937fcfcd065" />
+      <img width="900" alt="image" src="https://github.com/user-attachments/assets/eea64672-9b3a-4e6b-ae82-59e1524d15b6" />
     </td>
     <td>
       <img width="900" alt="Pressure3D" src="https://github.com/user-attachments/assets/f33e86ee-f5c6-4e2f-9960-73bf628d4340" />
