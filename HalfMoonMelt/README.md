@@ -7,3 +7,42 @@ This is a small project I worked on to help a postdoctoral researcher, Thea Fard
 ## Methods
 
 The parameters for the collision are shown below.
+
+<table>
+<tr>
+  <td>
+    Collision Angle (°)
+  </td>
+  <td>
+    Target Mass (kg)
+  </td>
+  <td>
+    Impactor-To-Total Mass Ratio
+  </td>
+  <td>
+    Impact Velocity 
+    (system escape velocity)
+  </td>
+  <td>
+    Number of Particles
+  </td>
+</tr>
+<tr>
+  <td>
+    45
+  </td>
+  <td>
+    3.68e+22
+  </td>
+  <td>
+    0.5
+  </td>
+  <td>
+    1
+  </td>
+  <td>
+    1,500,000
+  </td>
+</tr>
+  
+</table>
