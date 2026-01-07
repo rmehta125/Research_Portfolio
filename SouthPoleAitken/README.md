@@ -50,4 +50,20 @@ The impactor was assumed to have a radius of 200 km and no core.  For this proje
 
 ## Results and Conclusions
 
-The animations for the energy and pressure during impact are shown in the Animations.md file in this folder.  The energy animation displays the energy distribution and extent of the amount of debris launched into orbit. The pressure animation shows the pressure waves after the initial impact rippling over the Moon.  Furthermore, it displays an overall destruction of the Moon during impact, as at around t = 1 h, a wave of lunar material cascades over the body.  This supported the original presumption that an impactor of this size would have resulted in the Moon's destruction.  The crater rim is plotted in CraterRim.png, and the radial distribution of the crater particles is plotted in CraterDist.png.  Overall, the initial impact crater extends to a radius of about 1,800 km.  It is worth noting, however, that in contrast to iSALE, SPH does not handle material strength and instead treats the bodies as fluids.  This may cause the location of the initial crater radius to differ slightly from iSALE results.
+The animations for the energy and pressure during impact are shown below.
+
+<div align="center">
+
+https://github.com/user-attachments/assets/bc6738f1-5c29-432a-8277-9ecb60760ec7
+
+</div>
+
+The energy animation displays the energy distribution and extent of the amount of debris launched into orbit. The pressure animation shows the pressure waves after the initial impact rippling over the Moon.  Furthermore, it displays an overall destruction of the Moon during impact, as at around t = 1 h, a wave of lunar material cascades over the body.  This supported the original presumption that an impactor of this size would have resulted in the Moon's destruction.  
+
+The crater rim and radial distribution of the crater particles are shown below.
+
+<img width="1800" height="1800" alt="Crater" src="https://github.com/user-attachments/assets/d9413c9a-16ae-484e-b183-08512ac152aa" />
+
+<img width="1920" height="1440" alt="CraterDist" src="https://github.com/user-attachments/assets/893537c2-69e7-4cf6-886f-07153f9ea94d" />
+
+Overall, the initial impact crater extends to a radius of about 1,800 km.  It is worth noting, however, that in contrast to iSALE, SPH does not handle material strength and instead treats the bodies as fluids.  This may cause the location of the initial crater radius to differ slightly from iSALE results.
