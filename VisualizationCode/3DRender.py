@@ -1,5 +1,6 @@
 import numpy as np
 import pyvista as pv
+pv.global_theme.allow_empty_mesh = True
 import vtk
 vtk.vtkObject.GlobalWarningDisplayOff()
 
@@ -308,4 +309,5 @@ def main():
 
 
 main()
+
 
