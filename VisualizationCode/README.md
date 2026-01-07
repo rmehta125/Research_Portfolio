@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/b34df74a-84b9-4aa4-ab28-63d07e5900b6
   </tr>
   <tr>
     <td>
-      <img width="900" alt="3D_00050" src="https://github.com/user-attachments/assets/63a95136-22d4-426e-84cb-f820c64d13e9" />
+      <img width="900" alt="3D_00050" src="https://github.com/user-attachments/assets/40ebae84-f235-4caa-8d28-6e4bfeffe1ed" />
     </td>
     <td>
       <img width="900" alt="3D_00072" src="https://github.com/user-attachments/assets/7d833397-a03c-4e99-855a-469d94dda5e9" />
