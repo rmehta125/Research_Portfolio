@@ -4,11 +4,11 @@ import numpy as np
 
 #USER INPUTS_________________________________________________________________
 
-path = r"C:\Users\nakaj\OneDrive\Desktop\2025Work\MeltScalingCollisions\FinalCollisions\0.3\60Deg\\"
-outputpath = path
-outputnumber1 = 1200
-outputnumber2 = 1200
-ncores = 150
+path =
+outputpath =
+outputnumber1 = 
+outputnumber2 = 
+ncores = 
 
 centering = True
 axesscale = 1e6
@@ -18,15 +18,15 @@ background = 'Black'
 thickness = 1
 particlesize = 1
 
-parameter = 'Temperature'
-minimum = 0
-maximum = 15000
-colormap = 'afmhot'
+parameter = 
+minimum = 
+maximum = 
+colormap = 
 
-tarmantlecolor = 'cmap'
-tarcorecolor = 'gray'
-impmantlecolor = 'cmap'
-impcorecolor = 'gray'
+tarmantlecolor = 
+tarcorecolor = 
+impmantlecolor = 
+impcorecolor = 
 
 #____________________________________________________________________________
 
@@ -282,3 +282,4 @@ def main():
 
 
 main()
+
