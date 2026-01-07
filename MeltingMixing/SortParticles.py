@@ -3,13 +3,13 @@ import numpy as np
 
 #USER INPUTS_________________________________________________________________
 
-path=r"C:\Users\nakaj\OneDrive\Desktop\2025Work\MeltScalingCollisions\FinalCollisions\0.1\90Deg\\"
-outputpath=path
-outputnumber=370
-ncores=100
-xlim=20
-percentile=99
-iterations=0
+path =
+outputpath = path
+outputnumber = 
+ncores = 
+xlim = 
+percentile = 99
+iterations = 
 
 #____________________________________________________________________________
 
@@ -370,3 +370,4 @@ def main():
 
 
 main()
+
