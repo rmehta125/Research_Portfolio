@@ -62,6 +62,7 @@ The energy animation displays the energy distribution and extent of the amount o
 
 The crater rim and radial distribution of the crater particles are shown below.
 
+<p></p>
 
 <div align="center">
 
