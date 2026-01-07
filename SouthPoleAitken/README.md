@@ -79,4 +79,4 @@ The crater rim and radial distribution of the crater particles are shown below.
 </div>
 
 
-Overall, the initial impact crater extends to a radius of about 1,800 km.  It is worth noting, however, that in contrast to iSALE, SPH does not handle material strength and instead treats the bodies as fluids.  This may cause the location of the initial crater radius to differ slightly from iSALE results.
+Overall, the initial impact crater extends to a radius of about 1,800 km.  It is worth noting, however, that in contrast to iSALE, SPH does not handle material strength and instead treats bodies as fluids.  This may cause the location of the initial crater radius to differ slightly from iSALE results.
