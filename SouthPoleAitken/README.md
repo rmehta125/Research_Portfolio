@@ -43,7 +43,6 @@ The impact parameters used are shown below.
     3,331,800
   </td>
 </tr>
-  
 </table>
 
 The impactor was assumed to have a radius of 200 km and no core.  For this project, I analyzed the pressure and energy delievered during the collision.  Additionally, I analyzed the formation of the initial crater rim and estimated its radius.  This was determined by finding all particles that were launched into orbit at an early timestep using the DetermineTracers.py program in this folder.  Then, at the final timestep of the simulation, each of these particles were tracked, and their final position was plotted.
