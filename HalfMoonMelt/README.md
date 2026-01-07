@@ -61,5 +61,7 @@ https://github.com/user-attachments/assets/c4460e4b-5902-4d04-85e9-5b81b34e4e63
 
 </div>
 
+The percentage of mantle melting stabilizes at 82%.  As shown in the animation, the entire main body appears molten, with additional molten and solid material orbitting it in a debris disk.  Overall, this serves as a proof of concept that the most energetic impacts can melt the entirety of a moonlet.
+
 
 
