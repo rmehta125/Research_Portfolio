@@ -79,10 +79,3 @@ for j in range(ncores):
                 f.write(f"{id}\n")
 
 f.close()
-
-
-
-
-
-
-            
