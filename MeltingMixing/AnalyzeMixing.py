@@ -7,7 +7,7 @@ import pyvista as pv
 #USER INPUTS_________________________________________________________________
 
 path =
-outputpath = 
+outputpath = path
 outputnumber =
 gamma = 
 angle = 
@@ -411,3 +411,4 @@ def main():
 
 
 main()
+
