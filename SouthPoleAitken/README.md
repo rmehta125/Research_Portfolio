@@ -58,6 +58,8 @@ https://github.com/user-attachments/assets/bc6738f1-5c29-432a-8277-9ecb60760ec7
 
 </div>
 
+<p></p>
+
 The energy animation displays the energy distribution and extent of the amount of debris launched into orbit. The pressure animation shows the pressure waves after the initial impact rippling over the Moon.  Furthermore, it displays an overall destruction of the Moon during impact, as at around t = 1 h, a wave of lunar material cascades over the body.  This supported the original presumption that an impactor of this size would have resulted in the Moon's destruction.  
 
 The crater rim and radial distribution of the crater particles are shown below.
