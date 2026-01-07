@@ -4,7 +4,7 @@ import numpy as np
 #USER INPUTS_________________________________________________________________
 
 path =
-outputpath = 
+outputpath = path
 outputnumber = 
 gamma =
 angle = 
@@ -172,5 +172,6 @@ def main():
 
 
 main()
+
 
 
