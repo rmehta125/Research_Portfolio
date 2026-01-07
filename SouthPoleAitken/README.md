@@ -4,7 +4,21 @@ The impact parameters used are shown below.
 
 <table>
 <tr>
-  $\theta$
+  <td>
+    Collision Angle (°)
+  </td>
+  <td>
+    Target Mass (kg)
+  </td>
+  <td>
+    Impactor-To-Total Mass Ratio
+  </td>
+  <td>
+    Impact Velocity (km/s)
+  </td>
+  <td>
+    Number of Particles
+  </td>
 </tr>
   
 </table>
