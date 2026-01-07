@@ -51,13 +51,13 @@ The amount of mantle melt was analyzed using a slight modification of the Analyz
 
 ## Results and Conclusions
 
-The results of the melting analysis were compiled into an animation and plot showing how the mantle melt-mass fraction evolves over each timestep, where each timestep = 100s.  These are shown below
+The results of the melting analysis were compiled into an animation and plot showing how the mantle melt-mass fraction evolves over each timestep, where each timestep = 100s.  Each are shown below.
 
 <div align="center">
 
 https://github.com/user-attachments/assets/c4460e4b-5902-4d04-85e9-5b81b34e4e63
 
-<img width="1800" alt="MeltingEvoPlot" src="https://github.com/user-attachments/assets/c595f0dd-285b-4f35-8fd7-2ec249bc2758" />
+<img width="1000" alt="MeltingEvoPlot" src="https://github.com/user-attachments/assets/c595f0dd-285b-4f35-8fd7-2ec249bc2758" />
 
 </div>
 
