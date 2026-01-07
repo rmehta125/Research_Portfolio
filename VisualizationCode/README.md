@@ -14,6 +14,8 @@ This folder contains visualization programs I have written for the Nakajima Lab.
     <td>
       <img width="900" alt="CS_00740" src="https://github.com/user-attachments/assets/83da14d6-ae46-4b3e-9703-bac86ff832b3" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img width="900" alt="3D_00050" src="https://github.com/user-attachments/assets/63a95136-22d4-426e-84cb-f820c64d13e9" />
     </td>
