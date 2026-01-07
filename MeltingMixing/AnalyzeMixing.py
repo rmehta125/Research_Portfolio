@@ -6,15 +6,15 @@ import pyvista as pv
 
 #USER INPUTS_________________________________________________________________
 
-path=r"C:\Users\nakaj\OneDrive\Desktop\2025Work\MeltScalingCollisions\FinalCollisions\0.1\90Deg\\"
-outputpath=path
-outputnumber=370
-gamma=0.1
-angle=90
-axesdim = 24
-cameraposition=(30,30,0)
-elevation=0
-settled=False
+path =
+outputpath = 
+outputnumber =
+gamma = 
+angle = 
+axesdim = 
+cameraposition = 
+elevation = 
+settled = 
 
 #____________________________________________________________________________
 
@@ -406,6 +406,7 @@ def main():
         cutoff=None
 
     analyze_mixing(cutoff,particles,timevalue,radius)
+
 
 
 
