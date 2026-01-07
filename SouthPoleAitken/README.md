@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a project I worked on to help a graduate student, Nicholas Litza, who is studying the formation of the South Pole-Aitken (SPA) basin.  The SPA basin is a massive impact crater on the far side of the Moon, estimated to be over 2500 km in diameter.  Litza was studying how this impact feature formed with the use of a simulation software known as iSALE.  However, he ran into limitations, as iSALE simulates impacts in 2 dimensions.  Additionally, in order to determine the crater diameter, the iSALE impacts would have needed to run for an unfeasible amount of time.  Therefore, I used SPH to recreate his collision scenario and produce a faster, 3D simulation.
+This is a project I worked on to help a graduate student, Nicholas Litza, who was studying the formation of the South Pole-Aitken (SPA) basin.  The SPA basin is a massive impact crater on the far side of the Moon, estimated to be over 2500 km in diameter.  Litza was studying how this impact feature formed with the use of a simulation software known as iSALE.  However, he ran into limitations, as iSALE simulates impacts in 2 dimensions.  Additionally, in order to determine the crater diameter, the iSALE impacts would have needed to run for an unfeasible amount of time.  Therefore, I used SPH to recreate his collision scenario and produce a faster, 3D simulation.
 
 ## Methods
 
