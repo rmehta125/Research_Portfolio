@@ -38,7 +38,7 @@ The impact parameters used are shown below.
     10
   </td>
   <td>
-    3331800
+    3,331,800
   </td>
 </tr>
   
