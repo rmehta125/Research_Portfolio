@@ -51,7 +51,7 @@ The amount of mantle melt was analyzed using a slight modification of the Analyz
 
 ## Results and Conclusions
 
-The results of the melting analysis were compiled into an animation and a plot showing how the mantle melt-mass fraction evolves over each timestep, where each timestep = 100s.  Btoh are shown below; the melting percentage shown in each represents the fraction of molten silicate particles to total silicate particles.
+The results of the melting analysis were compiled into an animation and a plot showing how the mantle melt-mass fraction evolves over each timestep, where each timestep = 100s.  Both are shown below; the melting percentage shown in each represents the fraction of molten silicate particles to total silicate particles.
 
 <div align="center">
 
