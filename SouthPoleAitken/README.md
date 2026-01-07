@@ -54,6 +54,8 @@ The animations for the energy and pressure during impact are shown below.
 
 <div align="center">
 
+https://github.com/user-attachments/assets/f3dd0ef8-5a88-498a-bd66-dc19beb78f04
+
 https://github.com/user-attachments/assets/bc6738f1-5c29-432a-8277-9ecb60760ec7
 
 </div>
