@@ -69,6 +69,8 @@ The crater rim and radial distribution of the crater particles are shown below.
 
 <img width="600" alt="CraterDist" src="https://github.com/user-attachments/assets/893537c2-69e7-4cf6-886f-07153f9ea94d" />
 
+<p></p>
+
 </div>
 
 
