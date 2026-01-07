@@ -5,11 +5,11 @@ vtk.vtkObject.GlobalWarningDisplayOff()
 
 #USER INPUTS_________________________________________________________________
 
-path = r"C:\Users\nakaj\OneDrive\Desktop\2025Work\MeltScalingCollisions\FinalCollisions\0.3\60Deg\\"
-outputpath = path
-ncores = 150
-outputnumber1 = 740
-outputnumber2 = 740
+path = 
+outputpath = 
+ncores = 
+outputnumber1 = 
+outputnumber2 = 
 
 centering = True
 axesscale = 1e6
@@ -20,15 +20,15 @@ elevation = 20
 background = 'Black'
 particlesize = 3
 
-parameter = 'Energy'
-minimum = 0
-maximum = 30e6
-colormap = 'magma'
+parameter = 
+minimum = 
+maximum = 
+colormap = 
 
-tarmantlecolor = 'cmap'
-tarcorecolor = 'cmap'
-impmantlecolor = 'cmap'
-impcorecolor = 'cmap'
+tarmantlecolor = 
+tarcorecolor = 
+impmantlecolor = 
+impcorecolor = 
 
 #____________________________________________________________________________
 
@@ -308,3 +308,4 @@ def main():
 
 
 main()
+
