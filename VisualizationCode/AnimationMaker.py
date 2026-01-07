@@ -3,7 +3,7 @@ import imageio.v2 as imageio
 #USER INPUTS_________________________________________________________________
 
 path = 
-outputpath = path
+outputpath = 
 prefix =
 outputnumber1 = 
 outputnumber2 = 
@@ -32,6 +32,7 @@ def main():    # Main function generates the animation
 
 
 main()
+
 
 
 
