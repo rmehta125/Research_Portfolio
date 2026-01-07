@@ -62,8 +62,12 @@ The energy animation displays the energy distribution and extent of the amount o
 
 The crater rim and radial distribution of the crater particles are shown below.
 
+<div align="center">
+
 <img width="900" alt="Crater" src="https://github.com/user-attachments/assets/d9413c9a-16ae-484e-b183-08512ac152aa" />
 
 <img width="900" alt="CraterDist" src="https://github.com/user-attachments/assets/893537c2-69e7-4cf6-886f-07153f9ea94d" />
+
+</div>
 
 Overall, the initial impact crater extends to a radius of about 1,800 km.  It is worth noting, however, that in contrast to iSALE, SPH does not handle material strength and instead treats the bodies as fluids.  This may cause the location of the initial crater radius to differ slightly from iSALE results.
