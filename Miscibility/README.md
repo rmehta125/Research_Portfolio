@@ -43,6 +43,16 @@ The collision parameters used are listed below.
 </tr>
 </table>
 
-The first step in this project was to determine the peak temperature and pressure that occurs during the collision.  To do this, I wrote and used the MaxTempPress.py file in this folder.  This program also returns the 99.5 and 99th percentiles of temperature and pressure to guard against outliers.  The fraction of miscible particles was also determined in Miscible.py based on if their temperatures were higher than 
+The first step in this project was to determine the peak temperature and pressure that occurs during the collision.  To do this, I wrote and used the MaxTempPress.py file in this folder.  This program also returns the 99.5 and 99th percentiles of temperature and pressure to guard against outliers.  The fraction of miscible particles was also determined in Miscible.py using a Monte Carlo error estimate.  Slight variations of Miscible.py were also created to generate animations of miscibility.  
 
-![equation](https://latex.codecogs.com/svg.image?\int_0^\infty e^{-x^2}\,dx=\frac{\sqrt{\pi}}{2})
+## Results
+
+Although this project is still just getting started, there are a few preliminary results that hint toward the direction we are taking this study.  Shown below are plots for the evolution of peak temperature and pressure throughout the simulation.
+
+<img width="1554" height="1189" alt="Screenshot 2026-01-07 232209" src="https://github.com/user-attachments/assets/00076ef9-9f4c-4e1f-9dcd-14bc908c6eb9" />
+
+<img width="1554" height="1189" alt="Screenshot 2026-01-07 232209" src="https://github.com/user-attachments/assets/e5d9ffeb-e62a-4fed-bdb7-f370050f9f5a" />
+<img width="1570" height="1169" alt="Screenshot 2026-01-07 232227" src="https://github.com/user-attachments/assets/0aa41247-dc86-48dc-b1b2-383461366e62" />
+
+
+
