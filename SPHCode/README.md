@@ -24,7 +24,7 @@ Another task that I took on was fixing the option to resume a collision.  Previo
 
 ## Fixing Particle Distributions
 
-While working with the SPH code, I noticed that the number of particles the user inputted was not always the same as the number of particles truly added to the simulation.  Instead, the code was cutting off the total number so that it was divisible by the amount of processors being used for computation.  This posed a problem for simulations with low resolutions where this difference in particle number was quite apparent.  I fixed the issue by accounting for the leftover particles and ensuring they were distributed to a processor, rather than being eliminated in the GI.h file of the source code.
+While working with the SPH code, I noticed that the number of particles the user inputted was not always the same as the number of particles truly added to the simulation.  Instead, the code was cutting off the total number so that it was divisible by the amount of processors being used for computation.  This posed a problem for simulations with low resolutions where this difference in particle number was quite apparent.  I fixed the issue by accounting for the leftover particles and ensuring they were distributed to a processor, rather than being eliminated.  This work was done the GI.h file of the source code.
 
 ## Visualization Code
 
