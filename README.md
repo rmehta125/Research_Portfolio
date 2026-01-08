@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/4549e608-ae43-4766-93aa-49bcf25856fb
       <img width="900" alt="CS_00600" src="https://github.com/user-attachments/assets/9b1d213f-e097-4244-a8fb-017961ffde26" />
     </td>
     <td>
-      <img width="900" height="1808" alt="3D_00100" src="https://github.com/user-attachments/assets/c782d489-6eca-468a-b624-e1caea0157ac" />
+      <img width="900" height="1808" alt="3D_00100" src="https://github.com/user-attachments/assets/e1df78bb-1ce4-4acc-9d97-d3ed5aa731f3" />
     </td>
   </tr>
   
