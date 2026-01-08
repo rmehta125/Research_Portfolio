@@ -51,9 +51,9 @@ Although this project is still just getting started, there are a few preliminary
 
 <div align="center">
 
-<img width="800" height="1189" alt="Screenshot 2026-01-07 232209" src="https://github.com/user-attachments/assets/00076ef9-9f4c-4e1f-9dcd-14bc908c6eb9" />
+<img width="700" height="1189" alt="Screenshot 2026-01-07 232209" src="https://github.com/user-attachments/assets/00076ef9-9f4c-4e1f-9dcd-14bc908c6eb9" />
 
-<img width="800" height="1169" alt="Screenshot 2026-01-07 232227" src="https://github.com/user-attachments/assets/365b1c1f-2508-4dae-b948-fc90ffced8ac" />
+<img width="700" height="1169" alt="Screenshot 2026-01-07 232227" src="https://github.com/user-attachments/assets/365b1c1f-2508-4dae-b948-fc90ffced8ac" />
 
 </div>
 
