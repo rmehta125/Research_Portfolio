@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/04689133-1cce-4034-8b89-a809799a58b7
 
 </div>
 
-These intense conditions suggest significant miscibility, which is exactly what we see.  The following animation shows the evolution of miscibility for each material.  The target core, target mantle, impactor core, and impactor mantle are plotted in gray, green, red, and blue, respectively.  When a particle turns a lighter shade of its original color, it is considered miscible.
+These intense conditions suggest significant miscibility, which is precisely what we see when performing a direct calculation.  The following animation shows the evolution of miscibility for each material.  The target core, target mantle, impactor core, and impactor mantle are plotted in gray, green, red, and blue, respectively.  When a particle turns a lighter shade of its original color, it is considered miscible.
 
 By the end of the animation, we can see nearly the entire body is miscible, which has significant implications for its resulting composition.  Below is a plot showing the fraction of each material that is miscible over time.
 
