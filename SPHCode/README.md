@@ -6,7 +6,7 @@ This is an ongoing project that involves testing the Nakajima Lab's SPH code, mo
 
 ## Testing Angular Momentum
 
-One of the tasks I completed was verifying that the SPH code conserves angular momentum.  For this, I ran a few simulations, calculated the angular mometum of each particle, and plotted the net angular momentum over time.  An example is shown below for a collision involving NDunite as one of the equation of state tables with an impactor-to-total mass ratio of 0.1 at 45°.  The y-axis represents the ratio of the angular momentum at the current timestep to the angular momentum at the initial timestep.  Each timestep represents 100 s.
+One of the tasks I completed was verifying that the SPH code conserves angular momentum.  For this, I ran a few simulations, calculated the angular mometum of each particle, and plotted the net angular momentum over time.  An example is shown below for a collision involving NDunite as one of the equation of state tables with an impactor-to-total mass ratio of 0.1 at 45°.  The y-axis represents the ratio of the angular momentum at the current timestep to the angular momentum at the initial timestep.  Each timestep represents 100 s of simulation time.
 
 <div align="center">
   
