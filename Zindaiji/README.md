@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/b35eb769-d388-40be-987d-6f4ec6642438
 
 ## References
 
-Hull, S. D., Nakajima, M., Hosono, N., Canup, R.M., Gassmöller, R. (2014) Effect of Equation of State and Cutoff Density in Smoothed Particle Hydrodynamics Simulations of the Moon-forming Giant Impact, The Planetary Science Journal, 5, 9, https://doi.org/10.3847/PSJ/ad02f7
+Hull, S. D., Nakajima, M., Hosono, N., Canup, R.M., & Gassmöller, R. (2014) Effect of Equation of State and Cutoff Density in Smoothed Particle Hydrodynamics Simulations of the Moon-forming Giant Impact, The Planetary Science Journal, 5, 9, https://doi.org/10.3847/PSJ/ad02f7
 
 
 
