@@ -47,7 +47,7 @@ The first step in this project was to determine the peak temperature and pressur
 
 ## Results
 
-Although this project is still just getting started, there are a few preliminary results that show the direction we are taking this study.  Shown below are plots for the evolution of peak temperature and pressure throughout the simulation.
+Shown below are plots for the evolution of peak temperature and pressure throughout the simulation.
 
 <div align="center">
 
