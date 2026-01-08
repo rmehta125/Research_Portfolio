@@ -5,3 +5,40 @@ This is a relatively new project I have taken on, now that my analysis of impact
 ## Methods
 
 The collision parameters used are listed below.
+
+<table>
+<tr>
+  <td>
+    Collision Angle (°)
+  </td>
+  <td>
+    Target Mass (kg)
+  </td>
+  <td>
+    Impactor-To-Total Mass Ratio
+  </td>
+  <td>
+    Impact Velocity (system escape velocity)
+  </td>
+  <td>
+    Number of Particles
+  </td>
+</tr>
+<tr>
+  <td>
+    45
+  </td>
+  <td>
+    5.9722e+25
+  </td>
+  <td>
+    0.33
+  </td>
+  <td>
+    1
+  </td>
+  <td>
+    1,500,000
+  </td>
+</tr>
+</table>
