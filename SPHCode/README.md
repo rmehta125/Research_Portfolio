@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an ongoing project that involves testing the Nakajima Lab's SPH code, modifying it, and adding features.  The version of the code that I worked on can be found at the attached GitHub link which leads to the resume_test branch of the repository (https://github.com/NatsukiHosono/FDPS_SPH/tree/resume_test).  The source code can be found in the src2 folder and is based in C++.  The work that I have done so far is summarized below.
+This is an ongoing project that involves testing the Nakajima Lab's SPH code, modifying it, and adding features.  The most recent version of the code can be found at the attached GitHub link which leads to the resume_test branch of the repository (https://github.com/NatsukiHosono/FDPS_SPH/tree/resume_test).  The source code can be found in the src2 folder and is based in C++.  The work that I have done so far is summarized below.
 
 # Testing Angular Momentum
 
