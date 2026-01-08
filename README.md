@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/4549e608-ae43-4766-93aa-49bcf25856fb
   </tr>
   <tr>
     <td>
-      <img width="900" height="2400" alt="Miscible_00183" src="https://github.com/user-attachments/assets/2209ac99-b198-44fc-a035-452a3f0f3202" />
+      <img width="900" height="1808" alt="CS_00537" src="https://github.com/user-attachments/assets/1d9623ba-135e-4fb7-b199-ba16298ee127" />
     </td>
     <td>
       <img width="900" height="1808" alt="3D_00005" src="https://github.com/user-attachments/assets/cf84dd23-6d90-4e70-9db9-4f20c8baca3f" />
