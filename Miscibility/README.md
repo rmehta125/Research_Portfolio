@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/04689133-1cce-4034-8b89-a809799a58b7
 
 </div>
 
-These intense conditions suggest significant miscibility.  The following shows an animation of the miscibility over time for each material in the simulation.  The target core, target mantle, impactor core, and impactor mantle are plotted in gray, green, red, and blue respectively.  When a particle turns a lighter version of its original color, it is considered miscible.  The methods for how this animation was created and how particles were classified as miscible cannot be released yet.
+These intense conditions suggest significant miscibility.  The following shows an animation of the miscibility over time for each material in the simulation.  The target core, target mantle, impactor core, and impactor mantle are plotted in gray, green, red, and blue respectively.  When a particle turns a lighter version of its original color, it is considered miscible.  The total fraction of particles that are miscible is represented by the percentage at the bottom right of the video.  Unfortunately, the methods for how this animation was created and how particles were classified as miscible cannot be released yet.
 
 <div align="center">
 
