@@ -16,7 +16,7 @@ One of the tasks I completed was verifying that the SPH code conserves angular m
 
 <p></p>
 
-As can be seen, angular momentum is well conserved.  Part of this investigation also involved determining the rotation period of the target bodies post-impact.  The main collision scenario I tested was the canonical impact, which is theorized to have formed the Moon.  The analysis returned a period of 5 hours after impact, which is consistent with the spin rate necessary to explain the current angular momentum of the Earth-Moon system.  The programs used for this analysis are RotationAnalysisInertia.py and MomentumAnalysis.py and are included in this folder.
+As can be seen, angular momentum is well conserved.  Part of this investigation also involved determining the rotation period of the target bodies post-impact.  The main collision scenario I tested was the canonical impact, which is theorized to have formed the Moon.  The analysis returned a period of 5 hours after impact, which is consistent with the spin rate necessary to explain the current angular momentum of the Earth-Moon system.  The programs used for this analysis are RotationAnalysisInertia.py and MomentumAnalysis.py which are included in this folder.
 
 ## Adding a Resume Option
 
