@@ -57,7 +57,7 @@ Although this project is still just getting started, there are a few preliminary
 
 </div>
 
-These plots show the extreme temperatures and pressures a collision of this size is subject, with maximum values up to 1.4e+6 K and 1.1e+4 GPa, respectively.  Animations of the temperature and pressure distributions are shown below under more moderate ranges.
+These plots show the extreme temperatures and pressures a collision of this size is subject, with maximum values up to 1.4e+6 K and 1.1e+4 GPa, respectively.  Animations of the temperature and pressure distributions are shown below, color-coded under moderate ranges.
 
 <div align="center">
 
