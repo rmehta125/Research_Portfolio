@@ -49,10 +49,13 @@ The first step in this project was to determine the peak temperature and pressur
 
 Although this project is still just getting started, there are a few preliminary results that hint toward the direction we are taking this study.  Shown below are plots for the evolution of peak temperature and pressure throughout the simulation.
 
+<div align="center">
+
 <img width="800" height="1189" alt="Screenshot 2026-01-07 232209" src="https://github.com/user-attachments/assets/00076ef9-9f4c-4e1f-9dcd-14bc908c6eb9" />
 
-<img width="800" height="1189" alt="Screenshot 2026-01-07 232209" src="https://github.com/user-attachments/assets/e5d9ffeb-e62a-4fed-bdb7-f370050f9f5a" />
+<img width="800" height="1169" alt="Screenshot 2026-01-07 232227" src="https://github.com/user-attachments/assets/365b1c1f-2508-4dae-b948-fc90ffced8ac" />
 
+</div>
 
 
 
