@@ -19,14 +19,6 @@ https://github.com/user-attachments/assets/4549e608-ae43-4766-93aa-49bcf25856fb
 <table align="center">
   <tr>
     <td>
-      <img width="400" alt="DensityCS" src="https://github.com/user-attachments/assets/0caa7abe-2121-46a9-9297-82b91c3913b9" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td>
       <img width="900" height="1808" alt="Melting_01000" src="https://github.com/user-attachments/assets/40364672-0503-4021-a6ee-7c50474519db" />
     </td>
     <td>
