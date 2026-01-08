@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/4549e608-ae43-4766-93aa-49bcf25856fb
   
   <tr>
     <td>
-      <img width="900" alt="Melting_01000" src="https://github.com/user-attachments/assets/0ed77a8a-4655-4a7d-a8fc-1848f6fc16e6" />
+      <img width="900" height="1808" alt="Melting_01000" src="https://github.com/user-attachments/assets/40364672-0503-4021-a6ee-7c50474519db" />
     </td>
     <td>
         <img width="900" alt="image" src="https://github.com/user-attachments/assets/8c596743-65ea-4dd2-84c4-cfc536c2aedb" />
