@@ -69,7 +69,11 @@ These intense conditions suggest significant miscibility, which is exactly what 
 
 By the end of the animation, we can see nearly the entire body is miscible, which has significant implications for its resulting composition.  Below is a plot that summarized this animation in one figure showing evolution of miscibility for each material over time.
 
-<img width="800" height="1800" alt="MultMatMiscEvo" src="https://github.com/user-attachments/assets/227d63db-4f33-46ba-9319-c170ae32ae36" />
+<div align = "center">
+
+<img width="700" height="1800" alt="MultMatMiscEvo" src="https://github.com/user-attachments/assets/227d63db-4f33-46ba-9319-c170ae32ae36" />
+
+</div>
 
 Within just 6 hours, the impactor core and target cores are nearly fully miscible, with the impactor and target mantles close behind.
 
