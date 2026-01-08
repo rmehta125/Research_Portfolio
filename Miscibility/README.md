@@ -75,7 +75,7 @@ By the end of the animation, we can see nearly the entire body is miscible, whic
 
 </div>
 
-Within just 6 hours, the impactor core and target cores are nearly fully miscible, with the impactor and target mantles close behind.
+Within just 6 hours, the impactor core and target cores are nearly fully miscible.  Soon after, the impactor and target mantles are as well.
 
 
 
