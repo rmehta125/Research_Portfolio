@@ -18,8 +18,8 @@ Since this is a more serious project that will eventually be published, the resu
 
 ## References
 
-Canup, R.~M. 2004, Simulations of a late lunar-forming impact, Icarus, 168, 433--456, https://doi.org/10.1016/j.icarus.2003.09.028
+Canup, R. M., 2004, Simulations of a late lunar-forming impact, Icarus, 168, 433--456, https://doi.org/10.1016/j.icarus.2003.09.028
 
-Marchi, S., Canup, R. M., \& Walker, R.~J. 2018, Heterogeneous delivery of silicate and metal to the Earth by large planetesimals, Nat. Geosci., 11, 77--81, \url{https://doi.org/10.1038/s41561-017-0022-3}
+Marchi, S., Canup, R. M., & Walker, R. J., 2018, Heterogeneous delivery of silicate and metal to the Earth by large planetesimals, Nat. Geosci., 11, 77-81, https://doi.org/10.1038/s41561-017-0022-3
 
-[3] Nakajima, M., Golabek, G.~J., Wünnemann, K., Rubie, D.~C., Burger, C., Melosh, H.~J., Jacobson, S.~A., Manske, L., \& Hull, S.~D. 2021, Scaling laws for the geometry of an impact-induced magma ocean, Earth Planet. Sci. Lett., 568, 116983, \url{https://doi.org/10.1016/j.epsl.2021.116983
+Nakajima, M., Golabek, G. J., Wünnemann, K., Rubie, D. C., Burger, C., Melosh, H. J., Jacobson, S. A., Manske, L., & Hull, S. D., 2021, Scaling laws for the geometry of an impact-induced magma ocean, Earth Planet. Sci. Lett., 568, 116983, https://doi.org/10.1016/j.epsl.2021.116983
