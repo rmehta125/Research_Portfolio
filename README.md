@@ -1,4 +1,4 @@
-# SPH Simulation Analysis
+# Research Portfolio - SPH Simulations of Giant Impacts
 
 ## Overview
 
