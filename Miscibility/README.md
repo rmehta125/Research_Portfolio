@@ -59,9 +59,11 @@ Although this project is still just getting started, there are a few preliminary
 
 These plots show the extreme temperatures and pressures a collision of this size is subject, with maximum values up to 1.4e+6 K and 1.1e+4 GPa, respectively.  Animations of the temperature and pressure distributions are shown below under more moderate ranges.
 
+<div align = "center>
+
 https://github.com/user-attachments/assets/04689133-1cce-4034-8b89-a809799a58b7
 
-
+</div>
 
 
 
