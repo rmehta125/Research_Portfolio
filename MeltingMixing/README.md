@@ -14,7 +14,7 @@ A total of 30 SPH simulations are conducted.  Each have an impact velocity equal
 
 ## Results
 
-Since this is a more serious project that will eventually be published, the results will not be listed here.  They will, however, be explained at LPSC, NCUR, and RSPS, should the abstracts be accepted.  Once the results  and abstracts are formally published, a link and citation will be provided for them.
+Since this project will eventually be published, the results will not be listed here.  They will, however, be explained at LPSC, NCUR, and RSPS, should the abstracts be accepted.  Once the results  and abstracts are formally published, a link and citation will be provided for them.
 
 ## References
 
