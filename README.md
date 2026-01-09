@@ -6,7 +6,7 @@ This repository contains all work I, Roshan Mehta, have done for the Nakajima La
 
 ## Gallery
 
-Shown below are a random assortment of plots and animations that I have created so far using the code (or variations of it) provided in this repository.  I generated all data visualized here using the Nakajima Lab's SPH code (https://github.com/NatsukiHosono/FDPS_SPH) and BlueHive, the University of Rochester supercomputer.  Additional figures can be found in the individual project folders.  
+Shown below are a random assortment of plots and animations that I have created so far using the code (or variations of it) provided in this repository.  I generated all data visualized here using the Nakajima Lab's SPH code (https://github.com/NatsukiHosono/FDPS_SPH) and BlueHive, the University of Rochester supercomputer.  Additional figures can be found in the individual project folders.  Note, however, that most videos included in this repository have been compressed from their original quality so that they could be uploaded here.
 
 <div align="center">
 
