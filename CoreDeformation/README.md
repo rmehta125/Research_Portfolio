@@ -8,11 +8,13 @@ The blue particles represent target core particles, the gray shape represents th
 
 <div align="center">
 
-<img width="1800"  alt="Screenshot 2026-01-22 142424" src="https://github.com/user-attachments/assets/3de4f4f3-1477-4df0-bb60-5b2aed92a439" />
+<img width="600"  alt="Screenshot 2026-01-22 142424" src="https://github.com/user-attachments/assets/3de4f4f3-1477-4df0-bb60-5b2aed92a439" />
 
-<img width="1750" alt="Screenshot 2026-01-22 142500" src="https://github.com/user-attachments/assets/626acf94-cf81-4897-a834-09e8a25b54be" />
+<img width="600" alt="Screenshot 2026-01-22 142500" src="https://github.com/user-attachments/assets/626acf94-cf81-4897-a834-09e8a25b54be" />
 
 <p></p>
+
+</div>
 
 
 
