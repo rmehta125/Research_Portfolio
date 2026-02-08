@@ -1,3 +1,4 @@
+# Miscibility
 ## Overview
 
 This is a relatively new project we have taken on, working in collaboration with Prof. Jie Deng from Princeton University.  The main goal is to understand the composition of a body following a massive impact.  In particular, we are interested in how miscibility plays a role in the material distribution and the structure of the resulting body.  Miscibility can be understood as the ability of a particle to mix and homogenize with the material surrounding it.  This property is highly dependent on the temperature and pressure of the material.  For this project, I have so far simulated a large impact and plotted the temperature and pressure distributions.  I am currently working on determining which particles are miscible.  Further detail is described below.
