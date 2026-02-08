@@ -4,9 +4,9 @@ An example plot created by the code is shown below for a collision with γ=0.01 
 
 The blue particles represent target core particles, the gray shape represents the surface of the core, and the red line represents the maximum core deformation.  The code identified a length of 8.3e6 m, which corresponds to a deformation of approximately 1.8e6m from the core's original diameter.
 
-<img width="2150" height="1663" alt="Screenshot 2026-01-22 142424" src="https://github.com/user-attachments/assets/3de4f4f3-1477-4df0-bb60-5b2aed92a439" />
+<img width="1800"  alt="Screenshot 2026-01-22 142424" src="https://github.com/user-attachments/assets/3de4f4f3-1477-4df0-bb60-5b2aed92a439" />
 
-<img width="2314" height="1444" alt="Screenshot 2026-01-22 142500" src="https://github.com/user-attachments/assets/626acf94-cf81-4897-a834-09e8a25b54be" />
+<img width="1750" alt="Screenshot 2026-01-22 142500" src="https://github.com/user-attachments/assets/626acf94-cf81-4897-a834-09e8a25b54be" />
 
 
 
