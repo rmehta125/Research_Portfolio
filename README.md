@@ -3,6 +3,7 @@
 <table align="center">
   <tr>
     <td>
+      <img width="467" height="337" alt="Screenshot 2026-10-17 172537" src="https://github.com/user-attachments/assets/8c8161b6-7f05-45ab-a2ba-3f2d67c5e54b" />
     </td>
   </tr>
 </table>
