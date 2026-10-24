@@ -6,7 +6,7 @@ This is an ongoing project that involves testing the Nakajima Lab's SPH code, mo
 
 ## Adding a Resume Option
 
-Another task that I took on was fixing the option to resume a collision.  Previously, framework for resuming a collision simulation from any timestep had been set up in the source code.  However, it did not function properly.  I created a new branch, resume_test, in the GitHub repository and fixed this framework in the GI.h file.  Users are now able to resume a collision from any timestep, rather than having to start it all over again.
+One task I took on was fixing the option to resume a collision.  Previously, framework for resuming a collision simulation from any timestep had been set up in the source code.  However, it did not function properly.  I created a new branch, resume_test, in the GitHub repository and fixed this framework in the GI.h file.  Users are now able to resume a collision from any timestep, rather than having to start it all over again.
 
 ## Fixing Particle Distributions
 
