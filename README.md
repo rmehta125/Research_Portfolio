@@ -1,8 +1,8 @@
 # Research Portfolio - SPH Simulations of Giant Impacts
+
 <table align="center">
   <tr>
     <td>
-      <img width="467" height="337" alt="Screenshot 2026-10-17 172537" src="https://github.com/user-attachments/assets/00dc8f58-f3fe-4b3f-9625-          442e851695cb" />
     </td>
   </tr>
 </table>
