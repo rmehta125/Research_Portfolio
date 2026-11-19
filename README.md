@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td>
-        <img width="900" alt="ExplosionReducedGIF_" src="https://github.com/user-attachments/assets/4061fa51-dbcb-498d-8fd4-69f35c1eda79" />
+        <img alt="ExplosionReducedGIF_" src="https://github.com/user-attachments/assets/2a3f64b0-8711-4795-90f9-2604059ff0d0" />
     </td>
     <td>
         <img width="900" alt="RelaxationReducedGIF_" src="https://github.com/user-attachments/assets/106f6bd7-56d6-4f17-a381-c21c6c7fec40" />
