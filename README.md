@@ -4,6 +4,8 @@
 
 <div align="center">
 
+A recent visualization of a critical issue in our source code that caused planets to explode when generating them.  The left represents the old generation mechanism that caused the bug, while the right visualizes the new relaxation method I implemented, resulting in a success.
+
 <table align="center">
   <tr>
     <td>
@@ -20,7 +22,7 @@
     
 ## Overview
 
-This repository encompasses 800+ hours of work I, Roshan Mehta, have done for the Nakajima Lab under the supervision of Prof. Miki Nakajima. My research involves using smoothed-particle-hydrodynamics (SPH) simulations to analyze giant impacts, a Lagrangian technique that treats particle systems as fluids. I use this method to generate high resolution simulations of planetary collisions, which I then analyze for melting, material mixing, various properties such as temperature and pressure distributions, and more. My programs and findings are stored in this repository. The most complete, commented, and organized code is stored in the MeltingMixing and VisualizationCode folders, as these are polished programs I wrote for others to use as well. In addition, I have included instruction manuals in those directories explaining how to use the code included there.  
+This repository encompasses 800+ hours of work I, Roshan Mehta, have done for the Nakajima Lab under the supervision of Prof. Miki Nakajima. My research involves using smoothed-particle-hydrodynamics (SPH) simulations to analyze giant impacts, a Lagrangian technique that treats particle systems as fluids. I use this method to generate high-resolution simulations of planetary collisions, which I then analyze for melting, material mixing, various properties such as temperature and pressure distributions, and more. My programs and findings are stored in this repository. The most complete, commented, and organized code is stored in the MeltingMixing and VisualizationCode folders, as these are polished programs I wrote for others to use as well. In addition, I have included instruction manuals in those directories explaining how to use the code included there.  
 
 ## Gallery
 
