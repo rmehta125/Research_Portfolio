@@ -3,7 +3,10 @@
 <table align="center">
   <tr>
     <td>
-      <img width="467" height="337" alt="Screenshot 2026-10-17 172537" src="https://github.com/user-attachments/assets/8c8161b6-7f05-45ab-a2ba-3f2d67c5e54b" />
+       https://github.com/user-attachments/assets/2477d5f1-0b66-4775-b400-b3f8c231e243
+    </td>
+    <td>
+      <img width="900" alt="image" src="https://github.com/user-attachments/assets/8c596743-65ea-4dd2-84c4-cfc536c2aedb" />
     </td>
   </tr>
 </table>
