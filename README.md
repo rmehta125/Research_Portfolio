@@ -1,10 +1,10 @@
 # Research Portfolio - SPH Simulations of Giant Impacts
 
-
+<div align="center">
 
 https://github.com/user-attachments/assets/8b05165c-9142-4223-b992-b8449a78acb9
 
-
+<\div>
 
     
 ## Overview
