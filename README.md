@@ -10,7 +10,7 @@
         <img alt="ExplosionReducedGIF_" src="https://github.com/user-attachments/assets/2a3f64b0-8711-4795-90f9-2604059ff0d0" />
     </td>
     <td>
-        <img alt="RelaxationReducedGIF_" src="https://github.com/user-attachments/assets/538fe90a-4710-4d86-95fa-380a9a56d1d9" />
+        <img alt="RelaxationReducedGIF_" src="https://github.com/user-attachments/assets/25594c30-401a-4ef6-bf35-4bd9861e16ad" />
     </td>
   </tr>
 </table>
