@@ -4,11 +4,9 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/8b05165c-9142-4223-b992-b8449a78acb9
+<img width="2112" height="1808" alt="RelaxationReducedGIF_" src="https://github.com/user-attachments/assets/30d3c16f-0273-4575-b58c-48b22fa4645a" />
 
-https://github.com/user-attachments/assets/17e6d36d-5c0e-4a80-b497-8dc600c1543e
-
-<\div>
+</div>
 
     
 ## Overview
