@@ -4,7 +4,16 @@
 
 <div align="center">
 
-<img width="2112" height="1808" alt="RelaxationReducedGIF_" src="https://github.com/user-attachments/assets/30d3c16f-0273-4575-b58c-48b22fa4645a" />
+<table align="center">
+  <tr>
+    <td>
+        <img width="2112" height="1808" alt="RelaxationReducedGIF_" src="https://github.com/user-attachments/assets/30d3c16f-0273-4575-b58c-48b22fa4645a" />
+    </td>
+    <td>
+        <img width="2112" height="1808" alt="ExplosionReducedGIF_" src="https://github.com/user-attachments/assets/ce55399b-0b5c-45f0-91b6-13dda6c31375" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
