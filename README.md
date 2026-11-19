@@ -1,6 +1,6 @@
 
 
-# Research Portfolio - SPH Simulations of Giant Impacts
+# Research Portfolio - SPH Simulations of Giant Impacts and Planet Generation
 
 <div align="center">
 
