@@ -1,17 +1,12 @@
 # Research Portfolio - SPH Simulations of Giant Impacts
 
-<table align="center">
-  <tr>
-    <td>
-       https://github.com/user-attachments/assets/2477d5f1-0b66-4775-b400-b3f8c231e243
-    </td>
-    <td>
-      <img width="900" alt="image" src="https://github.com/user-attachments/assets/8c596743-65ea-4dd2-84c4-cfc536c2aedb" />
-    </td>
-  </tr>
-</table>
-    
 
+
+https://github.com/user-attachments/assets/8b05165c-9142-4223-b992-b8449a78acb9
+
+
+
+    
 ## Overview
 
 This repository encompasses 800+ hours of work I, Roshan Mehta, have done for the Nakajima Lab under the supervision of Prof. Miki Nakajima. My research involves using smoothed-particle-hydrodynamics (SPH) simulations to analyze giant impacts, a Lagrangian technique that treats particle systems as fluids. I use this method to generate high resolution simulations of planetary collisions, which I then analyze for melting, material mixing, various properties such as temperature and pressure distributions, and more. My programs and findings are stored in this repository. The most complete, commented, and organized code is stored in the MeltingMixing and VisualizationCode folders, as these are polished programs I wrote for others to use as well. In addition, I have included instruction manuals in those directories explaining how to use the code included there.  
