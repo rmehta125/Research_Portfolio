@@ -4,7 +4,7 @@
 
 ## Spotlight: No More Exploding Planets
 
-A recent visualization of a critical issue in our source code that caused planets to explode when generating them.  The left represents the old generation mechanism that caused the bug, while the right visualizes the new generation method I implemented that fixes the issue.
+_A recent visualization of a critical issue in our source code that caused planets to explode when generating them.  The left represents the old generation mechanism that caused the bug, while the right visualizes the new generation method I implemented that fixes the issue._
 
 <div align="center">
 
